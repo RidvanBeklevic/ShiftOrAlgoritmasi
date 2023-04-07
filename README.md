@@ -34,4 +34,10 @@ Bu durumda, her pencere için birkaç işlem yapılması gerektiği için algori
 
 
 Shift Or algoritmasının çalışma zamanı analizi, pencere boyutu k'nın bit dizisinin boyutuna göre ayarlanmasıyla optimize edilebilir. 
-Genellikle, k = log2(n) olarak seçilir ve bu durumda Shift Or algoritması O(n log n) çalışma zamanı ile çalışır
+Genellikle, k = log2(n) olarak seçilir ve bu durumda Shift Or algoritması O(n log n) çalışma zamanı ile çalışır.
+
+
+KOD YÖNERGESİ  ---->>>
+Bu kodu kullanmak ve test etmek için, Java programlama dilini destekleyen bir IDE (Integrated Development Environment) kullanmanız gerekiyor. Örneğin, IntelliJ IDEA, Eclipse veya NetBeans gibi bir IDE kullanabilirsiniz.
+
+Kodu kopyalayıp, IDE'nize yeni bir Java projesi oluşturarak ekleyin. Ardından, kodu çalıştırın ve çıktıyı kontrol edin.
